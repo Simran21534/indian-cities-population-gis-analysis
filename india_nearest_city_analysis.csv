@@ -1,0 +1,21 @@
+City,Nearest City,Distance (km)
+Mumbai,Pune,126.57
+Delhi,Jaipur,270.98
+Kolkata,Haora,5.92
+Chennai,Bengaluru,303.1
+Bengaluru,Coimbatore,234.26
+Hyderabad,Amaravati,249.2
+Amaravati,Hyderabad,249.2
+Ahmedabad,Vadodara,109.58
+Haora,Kolkata,5.92
+Pune,Mumbai,126.57
+Surat,Vadodara,138.33
+Kanpur,Lucknow,82.51
+Jaipur,Delhi,270.98
+Lucknow,Kanpur,82.51
+Nagpur,Bhopal,312.31
+Patna,Lucknow,493.43
+Indore,Bhopal,183.75
+Vadodara,Ahmedabad,109.58
+Bhopal,Indore,183.75
+Coimbatore,Bengaluru,234.26
