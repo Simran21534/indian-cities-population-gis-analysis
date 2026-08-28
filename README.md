@@ -80,7 +80,19 @@ Python Data Analysis | GIS | GeoPandas | Spatial Analysis | Data Cleaning | Data
 - Add population-density analysis
 - Add road-network distances
 - Build an interactive GIS dashboard
+## 🗺️ Project Visualizations
 
+### Population Distribution
+
+![Population Map](outputs/population_map.png)
+
+### Nearest City Analysis
+
+![Nearest City Map](outputs/nearest_city_map.png)
+
+### Population Comparison
+
+![Population Chart](outputs/population_chart.png)
 ## 👩‍💻 Author
 
 **Simran Khatun**
