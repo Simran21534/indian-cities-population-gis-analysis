@@ -1,6 +1,6 @@
-# indian-cities-population-gis-analysis
-Indian Cities Population and GIS Spatial Analysis using Python and GeoPandas
 # Indian Cities Population & GIS Spatial Analysis
+
+> A Python-based geospatial analysis project exploring population distribution and spatial relationships among major Indian cities using GeoPandas and GIS techniques.
 
 ## 📌 Project Overview
 
